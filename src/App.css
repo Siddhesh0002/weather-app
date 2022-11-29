@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+* {   margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('./background_alt.jpg') ;
+    background-size:100vw 100vh ;
+    background-repeat: no-repeat;
+}
+.heading {
+    font-family:Roboto;
+    font-weight: 500;
+    color: white;
+    font-size: 3rem;
+    padding: 70px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
